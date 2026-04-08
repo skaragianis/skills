@@ -1,6 +1,15 @@
 # LLM Skills
 
-Collection of agent skills for use with Codex or Claude.
+Collection of agent skills for Codex and Claude.
+
+## Installation
+
+```bash
+git clone https://github.com/skaragianis/skills.git
+
+ln -s <path-to-repo> ~/.claude/skills
+ln -s <path-to-repo> ~/.codex/skills
+```
 
 ## Skills
 
